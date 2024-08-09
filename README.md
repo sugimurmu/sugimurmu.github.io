@@ -1,1 +1,0 @@
-# poc_automation_ci_cd
